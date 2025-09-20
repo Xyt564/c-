@@ -1,5 +1,3 @@
----
-
 # 🧠 C++ Projects Repository
 
 Welcome to my collection of **C++ programs and practice files**!
