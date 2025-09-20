@@ -20,7 +20,7 @@ Each file in this folder demonstrates a specific C++ concept. Here's a brief ove
 
    **by running**:
    ```bash
-   git clone https://github.com/Xyt564/cpp-projects.git/tutorials
+   git clone https://github.com/Xyt564/cpp-projects.git
    ```
 
 3. **Navigate to the Folder**:
