@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+currently one supported are version 1.0.0 all files are safe and dont anything other than basic features
 
 | Version | Supported          |
 | ------- | ------------------ |
