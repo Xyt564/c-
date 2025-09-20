@@ -59,5 +59,3 @@ Here are a few examples of what you'll find:
 If you have suggestions for additional topics or improvements to this collection, feel free to open an issue or submit a pull request. Contributions are welcome!
 
 ---
-
-Feel free to adjust the content to better fit your specific tutorials and teaching style. If you need further assistance or a more detailed README, don't hesitate to ask!
