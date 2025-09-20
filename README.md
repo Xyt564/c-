@@ -1,32 +1,39 @@
-# 🖥️ C++ Projects Repository
+---
 
-Welcome to my collection of **C++ programs and projects**!  
-This repository is mainly for:
-1. **Backup** – keeping my C++ work safe and organized.  
-2. **Learning & Sharing** – providing examples for others who want to explore, learn, or reuse C++ code.  
+# 🧠 C++ Projects Repository
 
-If you’re also interested in Python, check out my [Python Projects Repository](https://github.com/Xyt564/python.git).  
+Welcome to my collection of **C++ programs and practice files**!
+This repository serves two main purposes:
+
+1. **Backup** – Keeping my C++ work safe and organized.
+2. **Learning & Sharing** – Providing examples for anyone who wants to explore, learn, or reuse C++ code.
 
 ---
 
 ## 📂 Contents
-This repository will include:
-- **Beginner Programs** – basic syntax, loops, conditionals, functions  
-- **Object-Oriented Programming (OOP)** – classes, inheritance, polymorphism, etc.  
-- **Data Structures & Algorithms (DSA)** – linked lists, stacks, queues, trees, sorting/searching algorithms  
-- **Problem-Solving Exercises** – practice problems and coding challenges  
-- **Small Projects** – experimental C++ projects as I learn and grow  
+
+This repository includes:
+
+* **Beginner Programs** – Basic syntax, loops, conditionals, functions
+* **Object-Oriented Programming (OOP)** – Classes, inheritance, polymorphism
+* **Data Structures & Algorithms (DSA)** – Linked lists, stacks, queues, trees, sorting/searching algorithms
+* **Problem-Solving Exercises** – Practice problems and coding challenges
+* **Small Projects** – Experimental C++ projects as I learn and grow
+* **Tutorials Folder** – 40+ individual files demonstrating specific C++ concepts like `if`, `while`, `switch`, arrays, functions, and more
+* **Number Guessing Game** – Guess a number between 1–1000 to reveal a secret message
+* **Calculator Program** – Performs basic arithmetic: `+`, `-`, `*`, `/`
 
 ---
 
-## 🚀 Getting Started
-To run any of the programs on your system:  
+## ⚡ Getting Started
+
+To run any program on your system:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Xyt564/cpp-projects.git
-````
 
+   ```
+   git clone https://github.com/Xyt564/cpp-projects.git
+   ```
 2. Navigate to the repo:
 
    ```bash
@@ -35,7 +42,7 @@ To run any of the programs on your system:
 3. Compile a file (example):
 
    ```bash
-   g++ filename.cpp -o output / or use cmake (if ur confused ask chatgpt or follow a guide)
+   g++ filename.cpp -o output
    ```
 4. Run the program:
 
@@ -45,21 +52,28 @@ To run any of the programs on your system:
 
 ---
 
-## 📌 Other Repositories
+## 📢 Contribution Guidelines
 
-* 🐍 [Python Projects Repository](https://github.com/Xyt564/python.git) – my Python code, scripts, and experiments
-* 🖥️ [C++ Projects Repository](https://github.com/Xyt564/cpp-projects.git) – you are here!
+If you have suggestions or want to propose new examples:
+
+* You **cannot directly change code** in the main repository.
+* Instead, **submit your suggestions** as an **Issue** or **Pull Request**, and I will review and merge them if appropriate.
 
 ---
 
-## 🤝 Contributing
+## 🔗 Other Repositories
 
-Contributions are always welcome!
-If you’d like to add examples, fix code then do so by suggesting improvements (dont just change the code):
+* [Python Projects Repository](https://github.com/Xyt564/python.git) – My Python code, scripts, and experiments
+* [C++ Projects Repository](https://github.com/Xyt564/cpp-projects.git) – You are here!
 
-1. Fork this repository
-2. dont Make your changes
-3. do this intead Submit a pull request
+---
+
+## 📌 Notes
+
+* This repo is a **work-in-progress** as I continue learning C++.
+* Some files are **practice snippets**, while others are **complete projects**.
+* Suggestions and feedback are welcome!
+* Additionally, these projects are **not actively maintained** and may get outdated. I will likely post more recent code as I continue developing new projects.
 
 ---
 
@@ -70,12 +84,8 @@ You are free to use and share the code as long as proper credit is given.
 
 ---
 
-## 💡 Notes
+## ✉️ Contact
 
-* This repo is a **work-in-progress** as I continue learning C++.
-* Some files may just be **practice snippets**, while others are **more complete projects**.
-* Suggestions and contributions are welcome—let’s grow together!
+For questions or feedback, you can **post an Issue** in this repository.
 
-Happy coding! 🚀
-
-```
+---
