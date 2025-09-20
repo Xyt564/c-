@@ -54,7 +54,7 @@ Correct! Here's your secret message:
 2. Compile the program:
 
    ```bash
-   g++ guessing_game.cpp -o guessing_game
+   g++ numguessgame.cpp -o guessing_game (or numguessgame whatever u like)
    ```
 3. Run the program:
 
