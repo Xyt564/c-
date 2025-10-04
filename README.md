@@ -22,7 +22,7 @@ This repository includes:
 * **Calculator Program** – Performs basic arithmetic: `+`, `-`, `*`, `/`
 * **To do list app** – basic cli to do list app with persistance using a plain text
 
-## For more info chech the folders readme's
+## For more info check the folders readme's
 
 ---
 
