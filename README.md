@@ -20,6 +20,9 @@ This repository includes:
 * **Tutorials Folder** – 40+ individual files demonstrating specific C++ concepts like `if`, `while`, `switch`, arrays, functions, and more
 * **Number Guessing Game** – Guess a number between 1–1000 to reveal a secret message
 * **Calculator Program** – Performs basic arithmetic: `+`, `-`, `*`, `/`
+* **To do list app** – basic cli to do list app with persistance using a plain text
+
+## For more info chech the folders readme's
 
 ---
 
