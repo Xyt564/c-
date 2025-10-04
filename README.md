@@ -66,6 +66,7 @@ If you have suggestions or want to propose new examples:
 
 * [Python Projects Repository](https://github.com/Xyt564/python.git) – My Python code, scripts, and experiments
 * [C++ Projects Repository](https://github.com/Xyt564/cpp-projects.git) – You are here!
+* [Rust project repository](https://github.com/Xyt564/rust.git) - My Rust projects and experiments
 
 ---
 
