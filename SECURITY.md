@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-currently one supported are version 1.0.0 all files are safe and dont anything other than basic features
+currently one supported are version 1.0.0 all files are safe (all are open source feel free to check out the code)
 
 | Version | Supported          |
 | ------- | ------------------ |
