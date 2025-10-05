@@ -21,6 +21,7 @@ This repository includes:
 * **Number Guessing Game** – Guess a number between 1–1000 to reveal a secret message
 * **Calculator Program** – Performs basic arithmetic: `+`, `-`, `*`, `/`
 * **To do list app** – basic cli to do list app with persistance using a plain text
+* **cli login tool** - create a user and password
 
 ## For more info check the folders readme's
 
